@@ -143,6 +143,7 @@
 | 👀 | [Usage HUD](https://github.com/Thalia-Bloom/usage-hud) | macos, menubar, usage, confidence | Usage HUD: one macOS menu-bar meter for Codex, Claude, Gemini, Grok and local models, with a confidence label on every number |
 | 👀 | [nerf-watch](https://github.com/Abelo9996/nerf-watch) | session-logs, regressions, local-first | Find out when your coding agent quietly got worse or more expensive. Local-first checks on Claude Code and Codex session logs, no telemetry. |
 | 👀 | [tokenreceipt](https://github.com/henrikdukefoss/tokenreceipt) | usage, cost, local-first, receipt | A till receipt for your AI agent token usage at API list prices. Claude Code, Codex, OpenCode, Gemini CLI, Cline, Roo, Kilo, Pi, Hermes. Local only. |
+| 👀 | [usage-float](https://github.com/akiiwa-games/usage-float) | quota-windows, multi-account, hud, windows | Borderless Windows HUD & CLI quota monitor for Claude Code, ChatGPT Codex, Grok, Google Antigravity (agy), Magpie & LiteLLM. Tracks multi-account 5h/7d rate-limit windows, redeems Claude/Codex limit-reset credits, and doubles as an mpv live wallpaper. |
 
 ---
 | 👀 | [NextReset](https://nextreset.ai/) | codex, reset-history, incidents, local-timer | Independent Codex reset-history tracker with official incident sources and a browser-local personal timer; historical observations do not guarantee future reset timing |
